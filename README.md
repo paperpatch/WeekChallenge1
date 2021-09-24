@@ -21,7 +21,7 @@ DESCRIPTION
 
 Modified the starter code (Horiseon webpage) for web accessibility standards. Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/WeeklyChallenge1
 
-||WORKING LINK?|| Screenshot of the starter code Horiseon webpage: ![screenshot](./assets/images/screenshot.pdf "screenshot") 
+Screenshot of the starter code Horiseon webpage: ![Alt text](./assets/images/screenshot.png "screenshot") 
 
 
 ACCESS
