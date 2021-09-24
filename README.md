@@ -1,18 +1,18 @@
-# Code Refactor Starter Code README
+# Code Refactor Starter Code
 
 CONTENTS OF THIS FILE
 ------------------------------
 
-*Introduction
-*Description
-*Access
-*Acknowledgement
+*Introduction <br />
+*Description <br />
+*Access <br />
+*Acknowledgement <br />
 
 
 INTRODUCTION
 ------------------------------
 
-Weekly Challenge 1 - Code Refactor Starter Code
+Weekly Challenge 1 - Code Refactor Starter Code <br />
 UConn Bootcamp Git Challenge: Code Refactor.
 
 
