@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor
 
 CONTENTS OF THIS FILE
 ------------------------------
@@ -12,7 +12,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------------------------
 
-Weekly Challenge 1 - Code Refactor Starter Code <br />
+Weekly Challenge 1 - Code Refactor <br />
 UConn Bootcamp Git Challenge: Code Refactor.
 
 
