@@ -13,7 +13,6 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------------------------
 
-Weekly Challenge 1 - Code Refactor <br />
 UConn Bootcamp Git Challenge: Code Refactor.
 
 Modified the starter code (Horiseon webpage) for web accessibility standards. Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/weekly-challenge-1
@@ -43,7 +42,7 @@ THEN I find a concise, descriptive title
 ACCESS
 ------------------------------
 
-Link to the website can be found at https://paperpatch.github.io/weekly-challenge-1/
+See the webpage ![here](https://paperpatch.github.io/code_refactor/)
 
 ![Alt text](./assets/images/screenshot.png "screenshot") 
 
