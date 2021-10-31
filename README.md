@@ -42,7 +42,7 @@ THEN I find a concise, descriptive title
 ACCESS
 ------------------------------
 
-See the webpage ![here](https://paperpatch.github.io/code_refactor/)
+See the webpage [here](https://paperpatch.github.io/code_refactor/)
 
 ![Alt text](./assets/images/screenshot.png "screenshot") 
 
