@@ -1,4 +1,4 @@
-# Code Refactor
+# Horiseon Code Refactor
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Modified the starter code (Horiseon webpage) for web accessibility standards.
 
 ## ACCESS
 
-[Webpage Link](https://paperpatch.github.io/code_refactor/)
+[Webpage Link](https://paperpatch.github.io/horiseon/)
 
 ![Alt text](./assets/images/screenshot.png "screenshot") 
 
